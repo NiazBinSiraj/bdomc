@@ -1,2 +1,2 @@
 # bdomc
-Bangladesh Online Mathematical Contest
+Bangladesh Online Mathematical Competition
